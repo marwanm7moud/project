@@ -1,0 +1,41 @@
+{
+  "nav.title": "First Link Dept Collection",
+  "hero.title": "Expert Debt Management Solutions",
+  "hero.subtitle": "Professional financial services with a focus on results",
+
+  "about.title": "Who Are We?",
+  "about.description1": "First Link Collection is an idea-driven company founded by a team of experienced Egyptian professionals with expertise in finance and consultancy, specializing in managing loans provided by others.",
+  "about.description2": "We have years of experience in banking, consulting, training, credit risk management, regulatory controls, compliance management, and debt collection.",
+
+  "whyUs.title": "Why Choose Us?",
+  "whyUs.reason1.title": "Dedicated Team",
+  "whyUs.reason1.description": "Specialized team for field visits and telephone collections",
+  "whyUs.reason2.title": "Research Unit",
+  "whyUs.reason2.description": "Independent unit for research and tracking",
+  "whyUs.reason3.title": "Quality Assurance",
+  "whyUs.reason3.description": "We verify communication quality and handle customer complaints effectively",
+
+  "objectives.title": "Our Core Objectives",
+  "objectives.1.title": "Efficient Collection",
+  "objectives.1.description": "We collect debts quickly and effectively",
+  "objectives.2.title": "Top Results",
+  "objectives.2.description": "We lead the industry with outstanding performance",
+  "objectives.3.title": "Strong Partnerships",
+  "objectives.3.description": "We build trusted, long-term client relationships",
+  "objectives.4.title": "Effective Methods",
+  "objectives.4.description": "We use the best strategies for debt recovery",
+
+  "contact.title": "Contact Us",
+  "contact.phone": "Phone",
+  "contact.phone.number": "01091361306",
+  "contact.email": "Email",
+  "contact.address": "Address",
+  "contact.address.full": "21 El Obour Buildings, Floor 13, Apt 131, Salah Salem",
+  "contact.hours": "Business Hours",
+  "contact.hours.weekdays": "Sunday - Thursday",
+  "contact.hours.weekend": "Friday - Saturday",
+  "contact.hours.timing": "9:00 AM - 5:00 PM",
+  "contact.hours.closed": "Closed",
+
+  "footer.rights": "All rights reserved"
+}
